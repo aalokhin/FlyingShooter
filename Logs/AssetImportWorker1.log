@@ -3981,3 +3981,52 @@ System memory in use after: 241.6 MB.
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2144.
 Total: 2.681805 ms (FindLiveObjects: 0.458950 ms CreateObjectMapping: 0.103141 ms MarkObjects: 1.830761 ms  DeleteObjects: 0.286754 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 81074.281222 seconds.
+  path: Assets/scripts/Enemy.cs
+  artifactKey: Guid(376ef106e59e949fc9e8ec38580f4671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/Enemy.cs using Guid(376ef106e59e949fc9e8ec38580f4671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40f3225a92c0fcc1120b3fe21f73d676') in 0.109190 seconds
+  Import took 0.137816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.446431 seconds.
+  path: Assets/scripts/CollisionHandler.cs
+  artifactKey: Guid(13cd1183e681c4a429eacda3fceb19b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/CollisionHandler.cs using Guid(13cd1183e681c4a429eacda3fceb19b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2faf5aa256d421f50e075eac16123ed9') in 0.004632 seconds
+  Import took 0.007563 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000561 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.578 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1294 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 242.2 MB.
+System memory in use after: 242.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2147.
+Total: 3.005373 ms (FindLiveObjects: 0.385098 ms CreateObjectMapping: 0.062468 ms MarkObjects: 2.257236 ms  DeleteObjects: 0.297886 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.984563 seconds.
+  path: Assets/scripts/PlayerController.cs
+  artifactKey: Guid(fe4fbd834769143919a6ca564915bd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/PlayerController.cs using Guid(fe4fbd834769143919a6ca564915bd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6337e99e2494b9a1814a7cff044bf154') in 0.007916 seconds
+  Import took 0.011022 seconds .
+

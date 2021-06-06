@@ -21,7 +21,6 @@ public class PlayerController : MonoBehaviour
     {
         xThrow = Input.GetAxis("Horizontal");
         yThrow = Input.GetAxis("Vertical");
-       // Debug.Log("delta time is " + Time.deltaTime);
 
         processRotation();
         processTranslation();
