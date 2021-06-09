@@ -57,6 +57,8 @@
      <Compile Include="Assets\PyroParticles\Prefab\Script\FireConstantBaseScript.cs" />
      <Compile Include="Assets\PyroParticles\Prefab\Script\FireLightScript.cs" />
      <Compile Include="Assets\scripts\SelfDestroy.cs" />
+     <Compile Include="Assets\scripts\Roller.cs" />
+     <Compile Include="Assets\scripts\Spinner.cs" />
      <None Include="Assets\Samples\Terrain Tools\0.1.0-preview\Terrain Assets\ThirdPartyNotices.txt" />
      <None Include="Assets\VolumetricLines\BuiltInRenderPipeline\Shaders\_LineStripShader.cginc" />
      <None Include="Assets\PyroParticles\Prefab\Materials\AdditiveTintable.shader" />
