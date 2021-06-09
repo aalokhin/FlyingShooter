@@ -6,7 +6,7 @@ public class Enemy : MonoBehaviour
 {
     [SerializeField] float loadDelay = 0.001f;
     [SerializeField] GameObject deathVFX;
-    [SerializeField] Transform parent;
+    [SerializeField] Transform groupingParent; //allows to organize enemies in runtime and get rid of destroyed objects 
 
     ParticleSystem explosionParticles;
     private void Start() {
@@ -17,24 +17,14 @@ public class Enemy : MonoBehaviour
     private void OnParticleCollision(GameObject other) {
        // explosionSequence();
         GameObject vfx = Instantiate(deathVFX, transform.position, Quaternion.identity);
-       // vfx.transform.parent = parent;
+        vfx.transform.parent = groupingParent;
         Destroy(gameObject);
 
     }
      
     private void OnCollisionEnter(Collision other) {
-        explosionSequence();
-    }
-
-
-    void die(){
+        explosionParticles.Play();
         Destroy(gameObject);        
     }
 
-    void explosionSequence(){
-         
-        explosionParticles.Play();
-        Invoke("die", loadDelay);
-
-    }
 }
