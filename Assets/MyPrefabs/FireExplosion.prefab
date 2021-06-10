@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 301959091797792448}
   - component: {fileID: 5296854359248307463}
   - component: {fileID: 5727122730093229182}
+  - component: {fileID: 5398277727162621730}
   m_Layer: 8
   m_Name: FireExplosion
   m_TagString: Untagged
@@ -4819,3 +4820,16 @@ ParticleSystemRenderer:
   m_Mesh2: {fileID: 0}
   m_Mesh3: {fileID: 0}
   m_MaskInteraction: 0
+--- !u!114 &5398277727162621730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6783707820627271449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24461373544d646b3bac0d5c659b332d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeTillDestroy: 4

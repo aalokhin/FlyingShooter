@@ -7,7 +7,7 @@ public class SelfDestroy : MonoBehaviour
     // Start is called before the first frame update
 
     /* object is going to be destroyed in timeTillDestroy time units. Needed to be able to isolate object destruction */
-    [SerializeField] float timeTillDestroy = 4f;
+    [SerializeField] float timeTillDestroy = 0.1f;
 
     void Start()
     {

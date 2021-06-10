@@ -1361,3 +1361,753 @@ System memory in use after: 212.5 MB.
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1996.
 Total: 2.400766 ms (FindLiveObjects: 0.255548 ms CreateObjectMapping: 0.060720 ms MarkObjects: 1.801227 ms  DeleteObjects: 0.281502 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000724 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.722 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1297 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 213.4 MB.
+System memory in use after: 213.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1999.
+Total: 3.468319 ms (FindLiveObjects: 0.391901 ms CreateObjectMapping: 0.079408 ms MarkObjects: 2.545529 ms  DeleteObjects: 0.449616 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1368.097452 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '515d4b144574224c6faee095d8fcd9f5') in 0.257237 seconds
+  Import took 0.262892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b62d14d6b9107468dc68c7b1cfc65e30') in 0.055283 seconds
+  Import took 0.060101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f97756d8cab3ea25f50bc1df681cb6be') in 0.006341 seconds
+  Import took 0.009525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1476.814771 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd67811c62b1ff370f6c043b09029af3') in 0.027829 seconds
+  Import took 0.049107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26fb73b934b585371168bf6e99fbc199') in 0.104447 seconds
+  Import took 0.110373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06e435072765f83b207b0e5276628744') in 0.064144 seconds
+  Import took 0.069506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.055216 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9267551dc0ea1196395317c8e936ec6') in 0.009452 seconds
+  Import took 0.013357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8147ff5b3d236cfe7ad22160efbfb08b') in 0.053597 seconds
+  Import took 0.059714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd104c0baa7a29bde359ff0e6b9951518') in 0.079162 seconds
+  Import took 0.084569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.018702 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d456a4b104895982de85348f6618b3') in 0.007544 seconds
+  Import took 0.011655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4065e10cc41bad9793c9dce6cbf7f21f') in 0.057059 seconds
+  Import took 0.063966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7108e56933bf93b835746fc24282228') in 0.050717 seconds
+  Import took 0.056643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.936675 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a378311861fc2aeca87956deb507a7') in 0.009545 seconds
+  Import took 0.015288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df3137ad6bbccdb4ddbdad1957afb6f3') in 0.051985 seconds
+  Import took 0.056735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3359395bbc7b64ad75a3990406d9db0') in 0.058612 seconds
+  Import took 0.063719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.013372 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b8cb5655a3705ca3e443935df72e53a') in 0.006891 seconds
+  Import took 0.010029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5510de585487d16f29c932635cd2cc10') in 0.058407 seconds
+  Import took 0.064360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '018e84b334d2545e0c757c852e7d1a26') in 0.075413 seconds
+  Import took 0.081461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.870773 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2397f5db9be1da3b6ea5c1b6c588de0f') in 0.007741 seconds
+  Import took 0.011719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '321caaee0fa06ad93b3f6fdb9111fed7') in 0.057620 seconds
+  Import took 0.064083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63d93eb1e904b76b820d9c2856e1f916') in 0.049127 seconds
+  Import took 0.055035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.218749 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd65ca2f8f5dcfae08a2237279fe6f67') in 0.010021 seconds
+  Import took 0.013753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ede8b9a6fa0c6ed94dd51fa07d8a36a') in 0.057483 seconds
+  Import took 0.062675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c18f0bcbe4fcf0544716050e63a2174d') in 0.054192 seconds
+  Import took 0.061062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.806721 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57227b644811b9c5fc0598ca446be0c2') in 0.007836 seconds
+  Import took 0.011264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b23230e7ccf6bd32468a16be24e45e75') in 0.054996 seconds
+  Import took 0.060494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd7769a852ae640d6185a2953a35fd1') in 0.057987 seconds
+  Import took 0.064376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.224248 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8315587e58554e4d5a07185f7e1b9361') in 0.007920 seconds
+  Import took 0.011927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6935c18d9a63161feb472619f42ca269') in 0.054470 seconds
+  Import took 0.059285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18f1dbb9993b17eaca0d2336e857f59c') in 0.053534 seconds
+  Import took 0.059866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.962712 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b9570b67e28cdb0ad2ed79979a26695') in 0.006926 seconds
+  Import took 0.010780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8348d2543a9896f96c8b2a60120d7e3') in 0.057261 seconds
+  Import took 0.062736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bd0fece489a147dbeae14198376be5a') in 0.061323 seconds
+  Import took 0.067070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.453086 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2bafc409a05fd2e5bcab3965ab978a2') in 0.008417 seconds
+  Import took 0.012412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f621009e2ce1bfb45dae09a47d6670a4') in 0.055882 seconds
+  Import took 0.061137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd43141440444c790291d2d2695219bc') in 0.059711 seconds
+  Import took 0.065199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.108712 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a439cc91627e5e4cf696764498c3d97') in 0.009646 seconds
+  Import took 0.013730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b6ea22c1abf304095344aa5cf175748') in 0.051385 seconds
+  Import took 0.058225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a17cddece417c69db0d335420a70f9ab') in 0.050053 seconds
+  Import took 0.055863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.709127 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2435097c48d95ac1baef3417075accc1') in 0.007883 seconds
+  Import took 0.011485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eea688aa712e6b96136ecc4ef58dc5fd') in 0.056746 seconds
+  Import took 0.062871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3027c36f7415c86587cbf549d82248ff') in 0.055106 seconds
+  Import took 0.061007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.937427 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2551d2e4349a904c373177e941f5d8e') in 0.008640 seconds
+  Import took 0.013087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ef445683aac8c6a12c876aee26140fe') in 0.056506 seconds
+  Import took 0.061622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '201b2b95b139f691577570f121fd654b') in 0.075270 seconds
+  Import took 0.080975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.502984 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6326eb0ce2d14dfeefa218669a4ec4c') in 0.008222 seconds
+  Import took 0.012134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4113b4b6e5e8de3b158f5d20d9d36be5') in 0.056693 seconds
+  Import took 0.061781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e09663f8a42e18f01f4c6ab49922a37') in 0.047047 seconds
+  Import took 0.051892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.836745 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77b2b15f7991212370831dcbfb699397') in 0.007890 seconds
+  Import took 0.011575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd47cc7a34e92573b4a32881bc8c7e6a') in 0.057007 seconds
+  Import took 0.061919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2391863b174679dbbc5f0de3d2a869b') in 0.076213 seconds
+  Import took 0.081220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.769597 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85bcb69cbc6e2035e93e9913215e0a40') in 0.007756 seconds
+  Import took 0.011872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '146596ab095fc129fd49009adece91b2') in 0.056323 seconds
+  Import took 0.062543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '131cd1c8175b5c8dcbb7ce57e26a1cd1') in 0.071878 seconds
+  Import took 0.078677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.948200 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70498ee71af3e33aa9500a516f485028') in 0.007594 seconds
+  Import took 0.011462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '801c226529cfbe345d5a700000653d64') in 0.055826 seconds
+  Import took 0.061720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000491 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39ae28ffe7e54ab2db4da4187bccc090') in 0.051842 seconds
+  Import took 0.057873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.934152 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0f30044fee0bd7582f46ffc92f39734') in 0.007213 seconds
+  Import took 0.011395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95c012bade84bdf916f04bc999f9cf9c') in 0.058587 seconds
+  Import took 0.064402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d4704781ae12460930e173f629c999d') in 0.045935 seconds
+  Import took 0.050844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.890767 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00d70ddb721ccb7910be8161df7e08cb') in 0.007803 seconds
+  Import took 0.011924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f01d665ea2828b24ddc78d218a2114d5') in 0.057101 seconds
+  Import took 0.062562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62e814527237d014b335be279de1b742') in 0.077955 seconds
+  Import took 0.083774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.635854 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d2860446bc208811da4cc58fdf9bded') in 0.007562 seconds
+  Import took 0.011617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef7870d786c67bde906c8cdb9302836') in 0.057438 seconds
+  Import took 0.062720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bba3bbb0bca5b3538ca9c02eb28479d7') in 0.076939 seconds
+  Import took 0.082621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.796084 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9c63eef42bcdb5ba50bfcbb2cffd50a') in 0.010203 seconds
+  Import took 0.013679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd536e9a840f056cf187d93bb73818f41') in 0.055009 seconds
+  Import took 0.060452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '330dfc8cc5640db285f0fb37988c115e') in 0.074775 seconds
+  Import took 0.079908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.845841 seconds.
+  path: Assets/MyPrefabs/laser.prefab
+  artifactKey: Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/laser.prefab using Guid(f115f6fa223a941a49e3e1bb2581cd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf6b29a491cced838f6b7a985875c6ac') in 0.009624 seconds
+  Import took 0.013437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49316a89b7de08108cc02736ed99ce4b') in 0.056432 seconds
+  Import took 0.061141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d353d93ec50fe478a0d0073b995b555') in 0.058996 seconds
+  Import took 0.064114 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001516 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.802 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1297 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 214.8 MB.
+System memory in use after: 214.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2003.
+Total: 2.875455 ms (FindLiveObjects: 0.504612 ms CreateObjectMapping: 0.174579 ms MarkObjects: 1.883551 ms  DeleteObjects: 0.310658 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000546 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.435 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1297 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 215.2 MB.
+System memory in use after: 215.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2006.
+Total: 3.334987 ms (FindLiveObjects: 0.344848 ms CreateObjectMapping: 0.111671 ms MarkObjects: 2.454582 ms  DeleteObjects: 0.421108 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8349.816660 seconds.
+  path: Assets/MyPrefabs/FireExplosion.prefab
+  artifactKey: Guid(7906e7293d7564c9da03181170695794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/FireExplosion.prefab using Guid(7906e7293d7564c9da03181170695794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb0f7d7a56d43636e913e533369c457a') in 0.058797 seconds
+  Import took 0.062203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/MyPrefabs/Player Rig.prefab
+  artifactKey: Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/Player Rig.prefab using Guid(0279456e6ff6146c49e036fb1e1efc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dae6dcafe42f9b542fbc15d73d408389') in 0.180192 seconds
+  Import took 0.186345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/MyPrefabs/SpaceShip.prefab
+  artifactKey: Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyPrefabs/SpaceShip.prefab using Guid(3d70edb104eeb47718af0455f1810221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38033c279dd561920a0a2cd517153a78') in 0.056704 seconds
+  Import took 0.062211 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000543 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.400 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1297 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 215.7 MB.
+System memory in use after: 215.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2010.
+Total: 2.473462 ms (FindLiveObjects: 0.228078 ms CreateObjectMapping: 0.053421 ms MarkObjects: 1.870235 ms  DeleteObjects: 0.320105 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000854 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.887 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1297 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.2 MB.
+System memory in use after: 216.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2013.
+Total: 2.176392 ms (FindLiveObjects: 0.266441 ms CreateObjectMapping: 0.056546 ms MarkObjects: 1.596255 ms  DeleteObjects: 0.256005 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000564 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.433 seconds
+Platform modules already initialized, skipping
+Shader 'Custom/AdditiveTintable': fallback shader 'Particles/Additive (Soft)' not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1297 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.6 MB.
+System memory in use after: 216.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2016.
+Total: 2.271438 ms (FindLiveObjects: 0.272907 ms CreateObjectMapping: 0.064324 ms MarkObjects: 1.665698 ms  DeleteObjects: 0.266889 ms)
+
